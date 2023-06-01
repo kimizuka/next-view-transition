@@ -49,7 +49,7 @@ const Wrapper = styled.article`
   }
 
   img {
-    flex-shrink: 0;;
+    flex-shrink: 0;
     object-fit: cover;
   }
 
